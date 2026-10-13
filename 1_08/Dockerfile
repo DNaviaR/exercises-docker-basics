@@ -2,4 +2,4 @@
 FROM devopsdockeruh/simple-web-service:alpine
 
 # Set entry point
-CMD [server]
+CMD ["server"]
